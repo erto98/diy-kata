@@ -17,3 +17,4 @@ There are two folders: `/src` and `/__tests__`. Both contain JS files named nume
 Once you've completed each function/test pair, run `npm test -- yourFunctionName` inside your cloned repo to check if your tests have worked.
 
 Add, commit, push and swap pairing roles after each one. When you've done them all, both partners should create pull requests to this repository.
+# diy-kata1
